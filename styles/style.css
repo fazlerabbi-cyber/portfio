@@ -1,0 +1,21 @@
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    }
+.father{
+    background-color:aliceblue;
+   padding: 100px;
+}
+div{
+    background-color: white;
+    text-align: center;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+
+}
+
